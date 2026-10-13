@@ -29,15 +29,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Stats
+### 📊 Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddharth-algtr&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=3DDC6A&icon_color=3DDC6A" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-algtr&layout=compact&theme=github_dark&hide_border=true&title_color=3DDC6A" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=siddharth-algtr&theme=github-dark-blue&hide_border=true&ring=3DDC6A&fire=3DDC6A&currStreakLabel=3DDC6A&mode=weekly" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=siddharth-algtr&theme=github-dark-blue&hide_border=true&ring=3DDC6A&fire=3DDC6A&currStreakLabel=3DDC6A" alt="Contribution streak" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth-algtr&bg_color=0d1117&color=c9d1d9&line=3DDC6A&point=FFFFFF&area=true&area_color=3DDC6A&hide_border=true" alt="Activity graph" />
 </p>
 
 ### ⚡ Fun fact
