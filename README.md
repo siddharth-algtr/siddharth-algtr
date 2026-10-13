@@ -32,7 +32,7 @@
 ### 📊 Activity
 
 <p align="center">
-  <img width="100%" src="metrics.isocalendar.svg" alt="3D contribution calendar" />
+  <img width="560%" src="metrics.isocalendar.svg" alt="3D contribution calendar" />
 </p>
 
 <p align="center">
