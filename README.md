@@ -32,7 +32,7 @@
 ### 📊 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=siddharth-algtr&theme=github-dark-blue&hide_border=true&ring=3DDC6A&fire=3DDC6A&currStreakLabel=3DDC6A&mode=weekly" alt="Contribution streak" />
+  <img width="100%" src="metrics.isocalendar.svg" alt="3D contribution calendar" />
 </p>
 
 <p align="center">
