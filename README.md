@@ -36,11 +36,12 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth-algtr&bg_color=0d1117&color=c9d1d9&line=3DDC6A&point=FFFFFF&area=true&area_color=3DDC6A&hide_border=true" alt="Activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddharth-algtr/siddharth-algtr/output/github-snake-dark.svg" />
+    <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/siddharth-algtr/siddharth-algtr/output/github-snake.svg" />
+  </picture>
 </p>
 
 ### ⚡ Fun fact
 
 I trust my code about as much as I trust my regex.
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=siddharth-algtr&color=3DDC6A&style=flat-square&label=Profile+views" alt="Profile views" /></p>
