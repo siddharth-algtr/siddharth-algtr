@@ -1,0 +1,24 @@
+name: Generate 3D contribution calendar
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # every day, 00:30 UTC
+  workflow_dispatch:        # lets you run it manually
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.SNAKE_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.isocalendar.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
